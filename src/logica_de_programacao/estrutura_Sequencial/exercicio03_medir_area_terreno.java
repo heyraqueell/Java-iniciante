@@ -1,6 +1,6 @@
 //Exercício feito sozinha a partir das informações que o professor deu (área, largura, valor e comprimento)
 
-package logica_de_programacao.Estrutura_sequencial;
+package logica_de_programacao.estrutura_Sequencial;
 import java.util.Locale;
 import java.util.Scanner;
 

@@ -2,7 +2,7 @@
 // o valor que recebe por hora e calcula o salário desse funcionário.
 // A seguir, mostre o número e o salário do funcionário, com duas casas decimais.”
 
-package logica_de_programacao.Estrutura_sequencial;
+package logica_de_programacao.estrutura_Sequencial;
 
 import java.util.Locale;
 import java.util.Scanner;

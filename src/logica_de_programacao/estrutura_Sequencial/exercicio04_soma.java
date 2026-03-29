@@ -1,4 +1,4 @@
-package logica_de_programacao.Estrutura_sequencial;
+package logica_de_programacao.estrutura_Sequencial;
 import java.util.Scanner;
 
 public class exercicio04_soma {
