@@ -3,7 +3,7 @@ package logica_de_programacao.Estrutura_sequencial;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class exercicio02 {
+public class exercicio02_scanner {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String nome, gen;

@@ -2,7 +2,7 @@ package logica_de_programacao.Estrutura_sequencial;
 
 import java.util.Scanner;
 
-public class exercicio01 {
+public class exercicio01_concatenacao {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String nome;
