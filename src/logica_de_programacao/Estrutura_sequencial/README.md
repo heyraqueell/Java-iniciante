@@ -6,7 +6,7 @@ Ele permite capturar diferentes tipos de valores, como texto ( `nextLine(`) ), i
 
 <aside>
 
-💡 O **Scanner** é uma **classe** que faz parte da **biblioteca padrão** do Java, organizada dentro do **pacote**
+>💡 O **Scanner** é uma **classe** que faz parte da **biblioteca padrão** do Java, organizada dentro do **pacote**
 `java.util`.
 
 </aside>
