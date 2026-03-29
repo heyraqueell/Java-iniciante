@@ -1,4 +1,4 @@
-package logica_de_programacao.entrada_de_dados;
+package logica_de_programacao.Estrutura_sequencial;
 
 import java.util.Scanner;
 
