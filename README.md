@@ -16,9 +16,10 @@ Este projeto serve como meu caderno de anotações e práticas para consolidar o
       * `Estrutura_Sequencial`
       * `Estrutura_Condicional`
       * `Estruturas_Repetitivas`
+      * `Outros`
 
 ---
 
 ### 📖 O que estou aprendendo agora?
-> No momento, estou focada em dominar a **Estruturas repetitivas** e manipulação de variáveis.
+> Introdução à Programação Orientada a Objetos
 

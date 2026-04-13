@@ -28,7 +28,6 @@ public class Exercicio06_qual_o_maior {
         else if ((n2 > n1) && (n2 > n3)){
             System.out.print(n2 + " é o maior número.");
             //CORREÇÃO: n1 já foi comparado com n2, então não precisa comparar n2 com n1 novamente, apenas com o n3.
-            // else if (n2 > n3) { System.out.print(n2 + " é o maior número."); }
         }
         else {
             System.out.print(n3 + " é o maior número.");
