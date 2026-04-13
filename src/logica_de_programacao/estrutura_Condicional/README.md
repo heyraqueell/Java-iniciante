@@ -1,5 +1,7 @@
 # Expressões lógicas e comparativas
 
+---
+
 ## Expressões comparativas
 
 | Operadores | Significado |

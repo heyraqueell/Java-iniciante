@@ -1,4 +1,7 @@
 ## Scanner
+
+---
+
 É uma classe usada para ler dados de entrada, geralmente do teclado (`System.in`).
 
 Ele permite capturar diferentes tipos de valores, como texto ( `nextLine(`) ), inteiros ( `nextInt()` ) e decimais (
