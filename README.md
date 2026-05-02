@@ -1,26 +1,41 @@
-# ☕ Jornada Java: Iniciante
-Bem-vindo ao meu repositório de estudos! <br> Aqui registro toda a minha evolução na linguagem Java, partindo do zero até os conceitos de Orientação a Objetos.
-#### Professor: Nélio Alves
 
+
+<img src="assets/photo-1519163219899-21d2bb723b3e.avif" width="100%" height="250px" style="object-fit: cover;">
+
+# ☕ Olá, seja bem-vindo(a) ao Evolution Java!
+Aqui registro toda a minha evolução na linguagem Java, partindo do zero até os conceitos avançados de Engenharia de Software.
+
+---
+## Sobre o Projeto
+Este repositório serve como meu caderno digital de anotações e práticas para consolidar os fundamentos no ecossistema Java. Atualmente, estou focada em:
+*   **Nível:** Desenvolvedora Java Iniciante.
+*   **Instrutor:** Professor **Nélio Alves**.
+*   **Contexto Acadêmico:** Complemento prático para a graduação em Engenharia de Software (Uninter).
+
+
+---
+
+## 📂 Estrutura do Repositório
+Para manter o aprendizado organizado, o projeto está dividido nas seguintes pastas:
+
+*   **`01-logica-de-programacao/`**: Exercícios de algoritmos, estruturas condicionais e repetitivas.
+*   **`02-orientacao-a-objetos/`**: Aplicação de classes, atributos, métodos e membros estáticos.
+
+---
+
+## 📖 O que estou aprendendo agora?
+Atualmente estou mergulhada nos conceitos de:
+- [x] Lógica de Programação Básica
+- [x] Introdução à Programação Orientada a Objetos (Em andamento...)
+- [ ] Construtores, Palavra `this`, Sobrecarga e Encapsulamento
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
-
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ---
-
-### 🎯 Objetivo
-Este projeto serve como meu caderno de anotações e práticas para consolidar os fundamentos no ecossistema Java.
-
----
-### 📂 Estrutura do Repositório
-
-* **`src/`**: Pasta principal com o código-fonte.
-    * `logica_de_programacao`
-    * `orientacao_objetos`
-
----
-
-### 📖 O que estou aprendendo agora?
-> **Introdução à Programação Orientada a Objetos**
-
+## 📬 Contato
+Sinta-se à vontade para acompanhar meu progresso ou entrar em contato:
+- **LinkedIn:** [@Heyraqueell](https://www.linkedin.com/in/heyraqueell/)
