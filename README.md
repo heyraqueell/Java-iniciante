@@ -1,6 +1,7 @@
 
-
-<img src="assets/photo-1519163219899-21d2bb723b3e.avif" width="100%" height="250px" style="object-fit: cover;">
+<p align="center">
+  <img src="assets/photo-1519163219899-21d2bb723b3e.avif" alt="Header Evolution Java" width="100%" height="350px" style="object-fit: cover;">
+</p>
 
 # ☕ Olá, seja bem-vindo(a) ao Evolution Java!
 Aqui registro toda a minha evolução na linguagem Java, partindo do zero até os conceitos avançados de Engenharia de Software.
