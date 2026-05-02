@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header-raquel.jpg" alt="Header Raquel Oliveira Dev Java" width="100%">
+  <img src="assets/header-raquel.png" alt="Header Raquel Oliveira Dev Java" width="100%">
 </p>
 
 # ☕ Olá, seja bem-vindo(a) ao Evolution Java!
