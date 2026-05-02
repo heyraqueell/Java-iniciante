@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="assets/photo-1519163219899-21d2bb723b3e.avif" alt="Header Evolution Java" width="100%" height="350px" style="object-fit: cover;">
+  <img src="assets/header-raquel.jpg" alt="Header Raquel Oliveira Dev Java" width="100%">
 </p>
 
 # ☕ Olá, seja bem-vindo(a) ao Evolution Java!
