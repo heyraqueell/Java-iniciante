@@ -6,7 +6,6 @@ out/
 *.class
 .idea/
 *.iml
-.assets/
 
 
 ### Eclipse ###
