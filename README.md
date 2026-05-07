@@ -12,22 +12,25 @@ Este repositório serve como meu caderno digital de anotações e práticas para
 *   **Instrutor:** Professor **Nélio Alves**.
 *   **Contexto Acadêmico:** Complemento prático para a graduação em Engenharia de Software (Uninter).
 
-
 ---
 
 ## 📂 Estrutura do Repositório
 Para manter o aprendizado organizado, o projeto está dividido nas seguintes pastas:
 
-*   **`01-logica-de-programacao/`**: Exercícios de algoritmos, estruturas condicionais e repetitivas.
-*   **`02-orientacao-a-objetos/`**: Aplicação de classes, atributos, métodos e membros estáticos.
+| Pasta                                 | Descrição                                                                  |
+|:--------------------------------------|:---------------------------------------------------------------------------|
+| **`01-logica-de-programacao/`**       | Fundamentos: variáveis, estruturas condicionais e estruturas repetitivas.  |
+| **`02-introducao-poo/`**              | Base da POO: classes, atributos, métodos e membros estáticos.              |
+| **`03-construtores-encapsulamento/`** | Proteção e construção: construtores, sobrecarga e modificadores de acesso. |
+| **`04-memoria-arrays-listas/`**       | Memória e Coleções: Stack/Heap, vetores e manipulação de listas dinâmicas. |
 
----
 
 ## 📖 O que estou aprendendo agora?
 Atualmente estou mergulhada nos conceitos de:
-- [x] Lógica de Programação Básica
-- [x] Introdução à Programação Orientada a Objetos (Em andamento...)
-- [ ] Construtores, Palavra `this`, Sobrecarga e Encapsulamento
+- [x] Lógica de Programação Básica.
+- [x] Introdução à Programação Orientada a Objetos.
+- [x] Construtores, Palavra `this`, Sobrecarga e Encapsulamento.
+- [ ] Comportamento de memória, Arrays e listas.
 
 ---
 

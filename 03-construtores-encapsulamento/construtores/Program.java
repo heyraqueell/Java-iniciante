@@ -1,7 +1,5 @@
-/*
-Descrição: Desenvolva um programa para gerenciar o estoque de um produto, permitindo a entrada de dados iniciais, a adição e a remoção de unidades, exibindo sempre o valor total atualizado em estoque.
- */
-package estoqueaula01;
+package construtores;
+
 
 import java.util.Locale;
 import java.util.Scanner;
@@ -10,17 +8,15 @@ public class Program {
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
-        Product produto = new Product();
 
         System.out.println("Enter product data:");
         System.out.print("Name: ");
-        produto.name = sc.nextLine();
+        String name = sc.nextLine();
 
         System.out.print("Price: ");
-        produto.price = sc.nextDouble();
+        double price = sc.nextDouble();
 
-        System.out.print("Quantity in stock: ");
-        produto.quantity = sc.nextInt();
+        Product produto = new Product(name, price);
 
         System.out.println();
         System.out.println("Product data: " + produto);

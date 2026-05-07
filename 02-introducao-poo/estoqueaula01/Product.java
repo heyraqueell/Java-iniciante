@@ -1,4 +1,4 @@
-package introducao_poo_02.estoqueaula01;
+package estoqueaula01;
 
 public class Product {
     public String name;
